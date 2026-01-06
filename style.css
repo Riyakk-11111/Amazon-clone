@@ -415,3 +415,11 @@ background-color: #131A22;
     text-decoration: none;
 }
 
+.footer-panel2 ul a:hover{
+    text-decoration: underline;
+    cursor:pointer;
+
+}
+    
+
+
